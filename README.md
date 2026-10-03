@@ -32,8 +32,6 @@ Langflow, Google Gemini, SQLite, SQL
 4. In the SQL Database component, set the database URL to your local file, for example `sqlite:///C:/path/to/chinook.db`.
 5. Open the Playground and start asking questions.
 
-> The flow file contains no API keys. Add your own after importing.
-
 ## Example Questions
 
 - How many customers are there?
